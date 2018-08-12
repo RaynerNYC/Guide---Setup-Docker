@@ -1,5 +1,13 @@
-# MircoServices
+# Mircoservices
+Microservice means developing a single, small, meaningful functional feature as single service.
+Each service has it's own process and communicate with lightweight mechanism. 
+They focused on a specific feature / business requirement.
 
+- loosely coupled (independent, in terms of development and deployment).
+- can be developed using different programming languages
+- allow to integrate automatic deployment with Continous Integration tools (eg: Jenkins, Hudson, bamboo etc.. ).
+- separation of code allow fast development and focused work with easier to understand/modify/maintain microservice.
+- easy to scale
 
 
 # Docker
